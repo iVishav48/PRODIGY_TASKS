@@ -9,15 +9,18 @@ This project builds a **machine learning regression model** to predict house pri
 The goal is to understand the **end-to-end machine learning workflow** by building a simple and interpretable model.
 
 ---
+## 📊 Dataset Source
 
-## 📂 Dataset
-The project uses the **House Prices dataset**, which contains detailed information about residential houses.
+The dataset used in this project is from Kaggle:
 
-### Files Used:
-- `train.csv` → Training data (features + target price)
-- `test.csv` → Test data (features only)
-- `sample_submission.csv` → Required submission format
-- `data_description.txt` → Description of all dataset features
+**House Prices – Advanced Regression Techniques**  
+🔗 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+The dataset includes:
+- `train.csv`
+- `test.csv`
+- `sample_submission.csv`
+- `data_description.txt`
 
 ---
 
